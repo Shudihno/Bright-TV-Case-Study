@@ -20,15 +20,16 @@ BrightTV's Customer Value Management (CVM) team required data-driven insights to
 Developed a complete analytics solution covering:
 
 - SQL data cleaning and feature engineering
-- Interactive dashboards in Excel, Power BI, and Looker Studio
+- Interactive dashboards in DataBricks Dashboard, Excel, Power BI, and Looker Studio
 - A responsive web dashboard using Lovable
-- Executive presentation with business recommendations
+- PowerPoint Executive presentation with business recommendations
 
 ---
 
 ## 🛠 Tech Stack
 
 - **SQL (Databricks)** – Data Cleaning & Feature Engineering
+- **SQL (Databricks)** – Dashboard Development
 - **Microsoft Excel** – Dashboard Development
 - **Power BI** – Business Intelligence Reporting
 - **Google Looker Studio** – Executive Dashboard
