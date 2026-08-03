@@ -91,6 +91,12 @@ Business Case
 Raw BrightTV Dataset
       │
       ▼
+Canva Gantt Chart Planning
+      │
+      ▼
+Miro Mind Map Planning
+      │
+      ▼
 SQL Data Cleaning
       │
       ▼
