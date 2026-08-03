@@ -1,6 +1,6 @@
 # 📺 BrightTV Viewership Analytics
 
-> An end-to-end Business Intelligence project that transforms raw subscriber and viewership data into actionable insights using SQL, Excel, Power BI, Looker Studio, and a live analytics web application.
+> An end-to-end Business Intelligence project that transforms raw subscriber and viewership data into actionable insights using Miro, Canva, DataBricks, SQL, Excel, Power BI, Looker Studio, and a live analytics web application.
 
 ## 🌐 Live Demo
 
