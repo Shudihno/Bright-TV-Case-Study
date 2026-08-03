@@ -1,217 +1,243 @@
+<div align="center">
+
 # 📺 BrightTV Viewership Analytics
+### End-to-End Business Intelligence & Data Analytics Project
 
-![SQL](https://img.shields.io/badge/SQL-Databricks-blue?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-Analytics-217346?style=for-the-badge)
-![Looker Studio](https://img.shields.io/badge/Looker-Studio-4285F4?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
+Transforming raw subscriber and viewership data into actionable business insights through SQL, Excel, Power BI, Looker Studio, and a live web dashboard.
 
-## 🌐 Live Dashboard
+[![SQL](https://img.shields.io/badge/SQL-Data%20Engineering-blue?style=for-the-badge)]()
+[![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge)]()
+[![Excel](https://img.shields.io/badge/Excel-Dashboard-217346?style=for-the-badge)]()
+[![Looker Studio](https://img.shields.io/badge/Looker-Studio-Visualization-4285F4?style=for-the-badge)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
 
-**Interactive Analytics Dashboard**
-
-https://lumina-tv-analytics.lovable.app
-
----
-
-# Executive Summary
-
-BrightTV is a digital television streaming platform seeking to grow its subscriber base and increase viewer engagement.
-
-This project was completed in response to a business case requesting actionable insights for the Customer Value Management (CVM) team. The objective was to analyze subscriber demographics and viewing behaviour, identify factors influencing content consumption, and provide recommendations to improve customer engagement and business growth. :contentReference[oaicite:0]{index=0}
-
-The project covers the complete analytics lifecycle:
-
-- Business Understanding
-- Data Discovery
-- Data Cleaning
-- Feature Engineering
-- SQL Data Processing
-- Dashboard Development
-- Business Intelligence Reporting
-- Recommendations
+</div>
 
 ---
 
-# Business Problem
+# 🌐 Live Interactive Dashboard
 
-BrightTV's CEO requested an analytical solution that would help the Customer Value Management (CVM) team answer the following business questions:
+## 🚀 Explore the Live Application
 
-- What are the current user and viewing trends?
+**https://lumina-tv-analytics.lovable.app**
+
+---
+
+# 📖 Executive Summary
+
+BrightTV is a digital television streaming platform seeking to grow its subscriber base while improving viewer engagement.
+
+This project was completed in response to a business case requiring an end-to-end analytics solution for BrightTV's Customer Value Management (CVM) team.
+
+The objective was to analyse subscriber demographics and viewing behaviour, identify the factors influencing content consumption, and provide data-driven recommendations to support business growth. :contentReference[oaicite:0]{index=0}
+
+Rather than focusing solely on dashboards, this project demonstrates the complete analytics lifecycle—from understanding a business problem to presenting executive recommendations.
+
+---
+
+# 🎯 Business Problem
+
+BrightTV's CEO requested analytical insights to answer the following questions:
+
+- What are the current subscriber and viewing trends?
 - Which factors influence content consumption?
-- Which content should be promoted during periods of low engagement?
-- Which initiatives can help increase BrightTV's subscriber base?
+- Which content should be promoted during low-consumption periods?
+- Which initiatives can increase BrightTV's subscriber base?
 
 :contentReference[oaicite:1]{index=1}
 
 ---
 
-# Project Objectives
+# 🎯 Project Objectives
 
-✔ Understand customer viewing behaviour
+✔ Analyse subscriber behaviour
 
-✔ Analyse subscriber demographics
+✔ Understand viewing trends
 
-✔ Identify high-performing TV channels
+✔ Build a clean analytical dataset
 
-✔ Measure audience engagement
+✔ Engineer meaningful business features
 
-✔ Build interactive dashboards
+✔ Develop interactive dashboards
 
-✔ Produce actionable business recommendations
+✔ Produce executive-level business insights
+
+✔ Recommend strategies for subscriber growth
 
 ---
 
-# Project Workflow
+# ✨ Project Highlights
 
-```
-Business Understanding
-        │
-        ▼
-Data Collection
-        │
-        ▼
-Data Cleaning
-        │
-        ▼
+- ✅ End-to-End Analytics Project
+- ✅ Business Case Solution
+- ✅ SQL Data Engineering
+- ✅ Feature Engineering
+- ✅ Interactive Dashboards
+- ✅ Executive Reporting
+- ✅ Business Recommendations
+- ✅ Live Web Dashboard
+- ✅ Project Planning
+- ✅ Professional Presentation
+
+---
+
+# 🏗️ Solution Architecture
+
+```text
+Business Case
+      │
+      ▼
+Raw BrightTV Dataset
+      │
+      ▼
+SQL Data Cleaning
+      │
+      ▼
 Feature Engineering
-        │
-        ▼
-SQL Data Processing
-        │
-        ▼
-Dashboard Development
-        │
-        ▼
-Business Insights
-        │
-        ▼
-Recommendations
+      │
+      ▼
+Analytical Dataset
+      │
+      ├──────────────┐
+      ▼              ▼
+Excel Dashboard   Power BI Dashboard
+      │              │
+      └──────┬───────┘
+             ▼
+     Looker Studio Dashboard
+             │
+             ▼
+      Lovable Web Dashboard
+             │
+             ▼
+ Business Insights & Recommendations
 ```
 
 ---
 
-# Project Timeline
+# 📅 Project Timeline
 
-The project followed a structured analytics workflow covering:
+The project followed a structured analytics workflow consisting of:
 
+- Business Understanding
 - Data Discovery
 - Data Inspection
 - Exploratory Data Analysis
 - Data Cleaning
 - Feature Engineering
+- SQL Processing
 - Dashboard Development
-- Power BI Monitoring
-- Data Presentation
+- Dashboard Monitoring
+- Executive Presentation
 
-:contentReference[oaicite:2]{index=2}
-
----
-
-# Technologies Used
-
-| Tool | Purpose |
-|------|---------|
-| SQL | Data Cleaning & Feature Engineering |
-| Databricks SQL | Data Processing |
-| Microsoft Excel | Dashboard Development |
-| Power BI | Interactive Business Intelligence Dashboard |
-| Google Looker Studio | Executive Reporting |
-| Lovable | Web Dashboard |
-| GitHub | Version Control |
+The work was planned and tracked using a Gantt Chart covering the full project lifecycle. :contentReference[oaicite:2]{index=2}
 
 ---
 
-# Dataset Overview
+# 🛠️ Tech Stack
 
-The project consists of two datasets:
+| Category | Technologies |
+|-----------|--------------|
+| **Programming** | SQL |
+| **Data Processing** | Databricks SQL |
+| **Spreadsheet Analytics** | Microsoft Excel |
+| **Business Intelligence** | Microsoft Power BI |
+| **Reporting** | Google Looker Studio |
+| **Web Dashboard** | Lovable |
+| **Presentation Design** | Microsoft PowerPoint, Canva |
+| **Project Planning** | Miro, Gantt Chart |
+| **Version Control** | Git & GitHub |
 
-### User Profiles
+---
 
-Contains subscriber demographic information including:
+# 📂 Dataset Overview
 
+The project consists of two primary datasets.
+
+## 👤 User Profiles
+
+- Subscriber ID
 - Gender
 - Age
-- Province
 - Race
+- Province
 - Email
 - Social Media Handle
 
-### Viewership Sessions
-
-Contains viewing behaviour including:
+## 📺 Viewership Data
 
 - Subscriber ID
-- Channel
+- Viewing Session
+- TV Channel
 - Viewing Date
 - Viewing Time
 - Session Duration
 
-Each viewing session represents a single customer viewing event. :contentReference[oaicite:3]{index=3}
+Each record represents an individual viewing session. :contentReference[oaicite:3]{index=3}
 
 ---
 
-# SQL Data Engineering
+# ⚙ SQL Data Engineering
 
-The SQL pipeline performs extensive feature engineering.
+The analytical dataset was built using SQL.
 
 ## Data Cleaning
 
-- Standardised missing Gender values
-- Cleaned Race values
-- Cleaned Province values
-- Removed inconsistent channel names
-
----
+- Standardised Gender values
+- Cleaned Race categories
+- Standardised Province names
+- Removed inconsistent TV Channel names
+- Validated missing values
 
 ## Feature Engineering
 
-Created:
+Created the following business features:
 
 - Age Groups
 - Province Category
-- Email Flag
-- Social Media Flag
-- Time of Day
-- Day Classification
+- Email Availability Flag
+- Social Media Availability Flag
 - Month ID
 - Viewing Hour
-- Duration (Minutes)
-- Screen Time Brackets
+- Day Classification
+- Time of Day
+- Duration in Minutes
+- Screen Time Categories
+
+## SQL Techniques Used
+
+- Common Table Expressions (CTEs)
+- CASE Statements
+- COALESCE
+- LEFT JOIN
+- Aggregations
+- Date Functions
+- Time Functions
+- Feature Engineering
+- Data Standardisation
+- Data Validation
 
 ---
 
-## Data Integration
+# 📊 Dashboards Developed
 
-Merged
+## 📈 Microsoft Excel Dashboard
 
-```
-User Profiles
-        +
-Viewership Data
-```
-
-into one analytical dataset for reporting.
-
----
-
-# Dashboards Developed
-
-## Microsoft Excel Dashboard
-
-Interactive dashboard including:
+Features
 
 - KPI Cards
+- Interactive Charts
+- Slicers
 - Channel Performance
-- Demographics
-- Viewership Trends
+- Audience Segmentation
 - Screen Time Analysis
 
 ---
 
-## Power BI Dashboard
+## 📊 Microsoft Power BI Dashboard
 
-Pages include:
+Pages
 
 - Overview
 - Channel Performance
@@ -221,15 +247,15 @@ Pages include:
 
 ---
 
-## Looker Studio Dashboard
+## 📈 Google Looker Studio Dashboard
 
-Executive dashboard designed for business reporting and online sharing.
+Executive dashboard developed for online reporting and business users.
 
 ---
 
-## Lovable Dashboard
+## 🌐 Lovable Dashboard
 
-A responsive web application that allows users to explore BrightTV analytics interactively.
+Responsive analytics web application enabling users to explore BrightTV insights interactively.
 
 **Live Demo**
 
@@ -237,43 +263,45 @@ https://lumina-tv-analytics.lovable.app
 
 ---
 
-# Key Performance Indicators
+# 📊 Key Performance Indicators
 
-The dashboard measures:
+The dashboard reports on:
 
 - Total Viewing Records
 - Total Viewing Hours
 - Average Viewing Duration
-- Number of Active Channels
+- Number of Active TV Channels
 - Top Performing Channel
-- Audience Demographics
-- Time of Day Analysis
-- Geographic Distribution
+- Largest Audience Segment
+- Province Distribution
+- Viewing Trends
+- Screen Time Distribution
+- Time-of-Day Analysis
 
-The dashboard highlights SuperSport Live Channels as the top-performing channel, weekday viewing as the majority of consumption, and Early Adults as the largest audience segment. :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}
+The dashboards identify SuperSport Live Channels as the leading channel, show weekday viewing as the dominant consumption period, and indicate that Early Adults form the largest audience segment. :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}
 
 ---
 
-# Dashboard Features
+# 📈 Dashboard Gallery
 
-## 📈 Overview
+## 🏠 Executive Overview
 
 - KPI Cards
 - Monthly Trends
 - Gender Distribution
-- Viewing Patterns
+- Audience Overview
 
 ---
 
 ## 📺 Channel Performance
 
-- Top Performing Channels
-- Watch Time
-- Average Duration
+- Top Channels
+- Total Watch Time
+- Average Viewing Duration
 
 ---
 
-## 👥 Audience Segments
+## 👥 Audience Segmentation
 
 - Age Groups
 - Gender
@@ -291,35 +319,121 @@ The dashboard highlights SuperSport Live Channels as the top-performing channel,
 
 ---
 
-# Business Insights
+## 💡 Insights & Recommendations
 
-The analysis identified several notable trends:
-
-- SuperSport Live Channels generated the highest viewership.
-- Weekday viewing exceeded weekend viewing.
-- Early Adults formed the largest audience segment.
-- Male viewers represented the largest proportion of the audience.
-- Viewership increased steadily from January through March. :contentReference[oaicite:6]{index=6}
+- Key Findings
+- Business Recommendations
+- Growth Opportunities
 
 ---
 
-# Recommendations
+# 📊 Key Business Insights
 
-Based on the analysis:
+The analysis revealed several important trends.
+
+- SuperSport Live Channels generated the highest viewership.
+- Weekday viewing exceeded weekend consumption.
+- Early Adults represented the largest audience segment.
+- Male viewers accounted for the majority of the audience.
+- Viewer engagement increased steadily between January and March. :contentReference[oaicite:6]{index=6}
+
+---
+
+# 🚀 Business Recommendations
+
+Based on the analysis, the following recommendations were proposed:
 
 - Promote premium sports content.
 - Schedule advertisements during peak viewing periods.
-- Target Early Adults using personalised campaigns.
+- Target Early Adults with personalised marketing campaigns.
 - Increase marketing aimed at female viewers.
-- Expand programming for children and senior audiences.
+- Expand children's programming.
+- Introduce more senior-focused content.
 
-These recommendations align with the insights presented in the dashboard. :contentReference[oaicite:7]{index=7}
+These recommendations reflect the findings presented in the dashboard. :contentReference[oaicite:7]{index=7}
 
 ---
 
-# Project Structure
+# 📚 Project Planning
 
-```
+This project followed a structured project management approach.
+
+### Miro
+
+- Project planning
+- Workflow mapping
+- Architecture design
+- Brainstorming
+
+### Canva
+
+- Executive presentation design
+- Business storytelling
+- Visual communication
+
+### Microsoft PowerPoint
+
+- Final executive presentation
+- Stakeholder reporting
+
+### Gantt Chart
+
+- Project scheduling
+- Milestone tracking
+- Timeline management
+
+---
+
+# 💼 Business Skills Demonstrated
+
+- Business Analysis
+- Customer Analytics
+- Executive Reporting
+- KPI Development
+- Stakeholder Communication
+- Business Intelligence
+- Strategic Thinking
+- Analytical Problem Solving
+- Data Storytelling
+
+---
+
+# 💻 Technical Skills Demonstrated
+
+## SQL
+
+- Data Cleaning
+- Feature Engineering
+- CASE Statements
+- CTEs
+- Joins
+- Aggregations
+- Date Functions
+- Data Standardisation
+- Data Validation
+
+## Business Intelligence
+
+- Dashboard Design
+- Data Visualisation
+- KPI Reporting
+- Interactive Filters
+- Slicers
+- Executive Reporting
+
+## Analytics
+
+- Exploratory Data Analysis
+- Customer Behaviour Analysis
+- Audience Segmentation
+- Trend Analysis
+- Time Series Analysis
+
+---
+
+# 📁 Project Structure
+
+```text
 BrightTV-Analytics
 │
 ├── Data
@@ -338,9 +452,20 @@ BrightTV-Analytics
 ├── Looker Studio
 │   └── Dashboard.pdf
 │
+├── Web App
+│   └── Lovable Dashboard
+│
+├── Images
+│   ├── overview.png
+│   ├── channels.png
+│   ├── audience.png
+│   ├── behaviour.png
+│   └── architecture.png
+│
 ├── Documents
 │   ├── BrightTV Case Study.pdf
-│   └── Gantt Chart.pdf
+│   ├── Gantt Chart.pdf
+│   └── Presentation.pptx
 │
 ├── README.md
 │
@@ -349,47 +474,70 @@ BrightTV-Analytics
 
 ---
 
-# Future Enhancements
+# 📈 Future Enhancements
 
 - Predictive Analytics
 - Customer Churn Prediction
 - Recommendation Engine
-- Real-time Data Pipeline
-- Automated ETL
+- Machine Learning
+- Automated ETL Pipelines
 - Azure Data Factory Integration
-- Machine Learning Models
+- Real-Time Streaming Analytics
+- Cloud Data Warehouse Integration
 
 ---
 
-# Skills Demonstrated
+# 📸 Dashboard Preview
 
-- Business Analysis
-- Data Cleaning
-- SQL
-- Feature Engineering
-- Data Modelling
-- Dashboard Design
-- Excel Analytics
-- Power BI
-- Looker Studio
-- Business Intelligence
-- Data Visualization
-- KPI Development
-- Storytelling with Data
+> **Tip:** Add screenshots to the `Images` folder and embed them here using Markdown for a more engaging GitHub page.
+
+```markdown
+![Dashboard Overview](Images/overview.png)
+
+![Channel Performance](Images/channels.png)
+
+![Audience Segments](Images/audience.png)
+
+![Viewer Behaviour](Images/behaviour.png)
+```
 
 ---
 
-# Author
+# 📌 Why This Project?
 
-**Mashudu Sivhada**
+This project demonstrates my ability to take a real-world business problem through the complete analytics lifecycle—from understanding stakeholder requirements to data preparation, feature engineering, dashboard development, business analysis, and executive presentation.
 
-Data Analyst | Business Intelligence Developer
+It showcases not only technical skills but also the ability to communicate insights and recommendations that support strategic business decisions.
 
 ---
 
-## Acknowledgements
+# 👨‍💻 Author
 
-This project was completed as part of the BrightTV Viewership Analytics Case Study to demonstrate end-to-end data analytics skills, from raw data processing through interactive dashboard development and business insight generation. :contentReference[oaicite:8]{index=8}
+## Mashudu Sivhada
+
+**Data Analyst | Business Intelligence Developer | SQL Developer**
+
+### Connect with Me
+
+- LinkedIn: *(Add your LinkedIn URL)*
+- GitHub: *(Add your GitHub URL)*
+- Email: *(Add your email)*
+
+---
+
+# ⭐ Acknowledgements
+
+This project was completed as part of the **BrightTV Viewership Analytics Case Study**, demonstrating an end-to-end business intelligence solution designed to support the Customer Value Management (CVM) team's objective of growing the subscriber base through data-driven insights. :contentReference[oaicite:8]{index=8}
+
+---
+
+<div align="center">
+
+### ⭐ If you enjoyed this project, please consider giving it a star!
+
+**Thank you for visiting my portfolio.**
+
+</div>
 
 ---
 
