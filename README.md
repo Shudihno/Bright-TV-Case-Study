@@ -8,7 +8,7 @@ Transforming raw subscriber and viewership data into actionable business insight
 [![SQL](https://img.shields.io/badge/SQL-Data%20Engineering-blue?style=for-the-badge)]()
 [![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge)]()
 [![Excel](https://img.shields.io/badge/Excel-Dashboard-217346?style=for-the-badge)]()
-[![Looker Studio](https://img.shields.io/badge/Looker-Studio-Visualization-4285F4?style=for-the-badge)]()
+[Looker Studio](https://img.shields.io/badge/Looker-Studio-4285F4?style=for-the-badge)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge)]()
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
 
