@@ -159,7 +159,8 @@ SELECT
     -- Subscriber/User ID
     COALESCE(A.userid, B.userid) AS subs,
 
-    -- Viewing information
+
+    -- Viewing information and User demographic information
     month_id,
     watch_date,
     day_of_week,
@@ -167,18 +168,15 @@ SELECT
     month_name,
     day_classification,
     TV_Channels,
+    province_category,
     hour_of_day,
     duration,
     duration_minute,
     screentime_brackets,
-    time_of_day,
-
-    -- User demographic information
-    province_category,
-    Gender,
+    time_of_day,Gender,
     age_group,
     Race,
-    email_flag,
+    email_Flag,
     sm_flag
 
 FROM viewership AS A
