@@ -487,22 +487,6 @@ BrightTV-Analytics
 
 ---
 
-# 📸 Dashboard Preview
-
-> **Tip:** Add screenshots to the `Images` folder and embed them here using Markdown for a more engaging GitHub page.
-
-```markdown
-![Dashboard Overview](Images/overview.png)
-
-![Channel Performance](Images/channels.png)
-
-![Audience Segments](Images/audience.png)
-
-![Viewer Behaviour](Images/behaviour.png)
-```
-
----
-
 # 📌 Why This Project?
 
 This project demonstrates my ability to take a real-world business problem through the complete analytics lifecycle—from understanding stakeholder requirements to data preparation, feature engineering, dashboard development, business analysis, and executive presentation.
@@ -519,9 +503,9 @@ It showcases not only technical skills but also the ability to communicate insig
 
 ### Connect with Me
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub URL)*
-- Email: *(Add your email)*
+
+- GitHub: [*(Add your GitHub URL)*](https://github.com/Shudihno/Bright-TV-Case-Study.git)
+- Email: mashudu.sivhada@protonmail.com
 
 ---
 
