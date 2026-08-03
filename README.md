@@ -510,7 +510,7 @@ It showcases not only technical skills but also the ability to communicate insig
 ### Connect with Me
 
 
-- GitHub: [*(Add your GitHub URL)*](https://github.com/Shudihno/Bright-TV-Case-Study.git)
+- GitHub: https://github.com/Shudihno/Bright-TV-Case-Study.git
 - Email: mashudu.sivhada@protonmail.com
 
 ---
